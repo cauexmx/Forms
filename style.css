@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+
+#fullCenter{
+    background-color: purple;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
+#Formulario{
+    background-color: cyan;
+    display: flex;
+    width: 350px;
+    
+
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
